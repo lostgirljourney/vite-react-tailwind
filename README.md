@@ -56,8 +56,8 @@ You can customize this template to fit your specific needs. Here are some areas 
 - **Project name**: Rename the project in `package.json`.
 - **Git remote**: Change the remote URL to your own repository: `git remote set-url origin https://github.com/your-username/your-repo.git`.
 - **Configuration**: Adjust the `vite.config.js` file to add plugins, configure paths, or modify build settings.
-- **Styling**: Update the `src/styles` directory to match your desired styles and design.
-- **Linting**: Adapt the ESLint and Prettier configurations in `.eslintrc.js` and `.prettierrc.js` to match your preferred code style.
+- **Styling**: Update the `src/css` directory to match your desired styles and design.
+- **Linting**: Adapt the ESLint and Prettier configurations in `.eslintrc.cjs` and `.prettierrc` to match your preferred code style.
 
 Please refer to the respective documentation of each tool or framework for more detailed customization options.
 
